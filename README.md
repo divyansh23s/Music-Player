@@ -28,6 +28,7 @@ JavaScript (ES6) – Music controls and logic
 HTML Audio API – Audio playback
 
 📂 Project Structure
+```
 music-player/
 │
 ├── index.html
@@ -42,7 +43,7 @@ music-player/
 │   ├── pause.png
 │   └── cover.jpg
 └── README.md
-
+```
 ⚙️ How to Run the Project
 
 Download or clone the repository
