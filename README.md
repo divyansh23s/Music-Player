@@ -35,12 +35,8 @@ music-player/
 ├── style.css
 ├── script.js
 ├── music/
-│   ├── song1.mp3
-│   ├── song2.mp3
-│   └── song3.mp3
+│   ├── nolove.mp3
 ├── images/
-│   ├── play.png
-│   ├── pause.png
 │   └── cover.jpg
 └── README.md
 ```
