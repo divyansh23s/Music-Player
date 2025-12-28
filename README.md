@@ -37,7 +37,7 @@ music-player/
 ├── music/
 │   ├── nolove.mp3
 ├── images/
-│   └── cover.jpg
+│   └── Music2.jpg
 └── README.md
 ```
 ⚙️ How to Run the Project
