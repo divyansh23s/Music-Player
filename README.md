@@ -48,7 +48,7 @@ music-player/
 
 Download or clone the repository
 
-git clone https://github.com/divyansh23s/music-player.git
+git clone https://github.com/divyansh23s/Music-Player.git
 
 
 Open the project folder
